@@ -79,6 +79,22 @@ a.date_passed{
     color: gray;
     text-decoration:underline dotted;
 }
-    
+/*styles for the aside*/
+aside{
+    width: 350px;
+    float: right;
+    padding: 20px;
+    background-color: #ffebc6;
+    margin-right: 20px;
+}
+    aside h2{
+        font-size: 130%;
+        padding-bottom: 0.5em;
+    }
+    aside h3{
+        font-size: 100%;
+        color: #931420;
+        padding-bottom: 0.5em;
+    }
 
 
