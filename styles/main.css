@@ -1,0 +1,41 @@
+html{
+    background-image: linear-gradient(white,orange);
+    
+}
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 100%;
+    width: 990px;
+    background-color: white;
+    margin: 15px auto;
+    padding: 15px auto;
+    border: 1px solid black;
+
+}
+section,aside,h1,h2,h3{
+    margin: 0;
+    padding: 0;
+    }
+    section,aside{
+        margin-top: 1.5em;
+        margin-bottom: 1em;
+    }
+    a{font-weight: bold;}
+    a:link{color:gray;}
+    a:visited{color:red;}
+    a:hover,a:focus{color:blue;}
+    ul{
+        margin-top: 0;
+        margin-bottom: 1.5em;
+    }
+    li{
+        font-size: 95%;
+        padding-bottom: 0.35em;
+    }
+    p{
+        font-size: 95%;
+        padding-bottom: 0.5em;
+    }
+    em{font-weight: bold;}
+    /*Styles for the  Header */
+
