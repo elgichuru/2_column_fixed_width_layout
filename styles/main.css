@@ -38,4 +38,45 @@ section,aside,h1,h2,h3{
     }
     em{font-weight: bold;}
     /*Styles for the  Header */
+    header{
+        padding-bottom: 2em;
+        border-bottom: 2px solid orange;
+    }
+    header img{
+        float: left;
+        margin-left: 20px;
+    }
+    header h2{
+        font-size: 220px;
+        color: #f2972e;
+        text-shadow: 2px 3px 0px black;
+        margin-left: 120px;
+        margin-bottom: .25em;
+    }
+    header h3{
+        font-size: 130%;
+        font-style: italic;
+        margin-left: 120px;
+    }
+    /*styles for the section*/
+    section {
+        width: 535px;
+        float: right;
+        margin-left: 20px;
+        padding-right: 25px;
+    }
+    section h1{
+        font-size: 170%;
+        margin-bottom: .25em;
+    }
+    section h2{
+        font-size: 130%;
+        margin-bottom: .25em;
+    }
+    #contact_us{
+        margin-top: 1em;
+        
+    }
+    
+
 
