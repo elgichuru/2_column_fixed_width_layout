@@ -96,5 +96,19 @@ aside{
         color: #931420;
         padding-bottom: 0.5em;
     }
+    aside p{margin-bottom: .5em;}
+
+    /*the styles for the footer */
+    footer{
+        clear: both;
+        padding-top: 1em;
+        border-top: 2px solid #f2972e;
+        }
+        footer p{
+            font-size: 80%;
+            margin-right: 20px;
+            text-align: right;
+            border-top: 1px solid #f2972e;
+        }
 
 
