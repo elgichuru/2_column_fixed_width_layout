@@ -74,9 +74,11 @@ section,aside,h1,h2,h3{
         margin-bottom: .25em;
     }
     #contact_us{
-        margin-top: 1em;
-        
-    }
+        margin-top: 1em;}
+a.date_passed{
+    color: gray;
+    text-decoration:underline dotted;
+}
     
 
 
