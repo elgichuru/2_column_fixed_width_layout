@@ -1,0 +1,43 @@
+html{
+    background-image: linear-gradient(white,orange);
+    height: 100%;
+}
+body{
+    font-family: verdana,Arial, Helvetica, sans-serif;
+    font-size: 100%;
+    margin: 1em auto;
+    width: 992px;
+    background-color: white;
+    border: 1px solid black;
+
+}
+article,aside,h1,h2,h3,p,ul{
+    margin: 0;
+    padding: 0;
+}
+article,aside{
+    margin-top: 1.5em;
+    margin-bottom: 1em;
+}
+
+/*styling links*/
+a{font-weight: bold;}
+a:link{color: #931420;}
+a:hover,a:focus{color:blue;}
+a:visited{color: #f2972e;}
+
+ul{
+    margin-left: 1.5em;
+    margin-bottom: 1.5em;
+}
+li{
+    font-size: 95%;
+    padding-bottom: 0.0.35em;
+}
+p{
+    font-size: 95%;
+    padding-bottom: 0.5em;
+}
+em{
+    font-weight: bold;
+}
