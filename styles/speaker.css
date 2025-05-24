@@ -41,3 +41,14 @@ p{
 em{
     font-weight: bold;
 }
+/*styles for the header*/
+header{
+    padding-bottom: 2em;
+    border-bottom: 1px solid orange;
+
+}
+header h2{
+    font-size: 220px;
+    color: orange ;
+    text-shadow: ;
+}
