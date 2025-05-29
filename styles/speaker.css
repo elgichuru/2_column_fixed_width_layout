@@ -50,5 +50,7 @@ header{
 header h2{
     font-size: 220px;
     color: orange ;
-    
+
+    text-shadow: 2px 3px 0 black;
+
 }
