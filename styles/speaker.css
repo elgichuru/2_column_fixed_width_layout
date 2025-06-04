@@ -66,6 +66,9 @@ header img{
 }
 /*styles for the article*/
 article{
+    column-count: 2;
+}
+article{
     float: right;
     width: 535px;
     padding-right: 25px;
